@@ -1,7 +1,8 @@
 # Blog-Post-Ideas
 A curated collection of future blog post ideas focusing on cloud computing and tech trends
 
-## Next Post:
+## Next Post
+- https://www.linkedin.com/advice/how-can-you-use-github-build-your-programming-network-gu2gc
 - https://www.linkedin.com/advice/1/how-can-you-prepare-changes-programming-industry-skills-programming-1kqwe
 
 ## Pool: 
