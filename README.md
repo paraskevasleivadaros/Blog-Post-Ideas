@@ -1,5 +1,5 @@
 # Blog-Post-Ideas
-A curated collection of future blog post ideas for https://paraskevasleivadaros.github.io, focusing on cloud computing and tech trends
+A curated collection of future blog post ideas focusing on cloud computing and tech trends
 
 ## Next Post:
 - https://www.linkedin.com/advice/1/how-can-you-prepare-changes-programming-industry-skills-programming-1kqwe
