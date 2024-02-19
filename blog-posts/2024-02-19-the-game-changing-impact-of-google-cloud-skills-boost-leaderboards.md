@@ -32,7 +32,7 @@ At the heart of the platform's gamification strategy lies the **leaderboard** sy
 Google Cloud Skills Boost is commendable for its **inclusive** approach to learning. The platform ensures that taking breaks does not penalize learners; instead, it offers a system where progress can be **paused**, preventing any loss in league standings or leaderboard positions. Moreover, the use of randomized player names safeguards **privacy** and promotes anonymity, making the learning experience **safe** and **inclusive** for all participants.
 
 ![Google Cloud Skills Boost Promotion to Gold League 2024-01-17](https://github.com/paraskevasleivadaros/Blog-Post-Ideas/assets/16403754/29d156ec-ba56-447b-bfb4-54fa22f4a51a)
-*The moment of promotion to the Gold League*
+*My promotion to the Gold League on Google Cloud Skills Boost*
 
 ## The Impact on Learning and Engagement
 My personal journey with Google Cloud Skills Boost led to the achievement of two **certifications**, underscoring the platform's efficacy in facilitating **skill acquisition** and **professional development**. The gamified approach has shown to significantly **boost** learning outcomes and **engagement** levels. The option to opt-out respects user preferences, highlighting the platform's commitment to **user-centric** learning. Embracing the philosophy of improving "just 1% per day" can exponentially **enhance** one's abilities over time, embodying the essence of **continuous growth** and **development**.
