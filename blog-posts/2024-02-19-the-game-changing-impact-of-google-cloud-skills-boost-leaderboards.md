@@ -37,7 +37,7 @@ Google Cloud Skills Boost is commendable for its **inclusive** approach to learn
 ## The Impact on Learning and Engagement
 My personal journey with Google Cloud Skills Boost led to the achievement of two **certifications**, underscoring the platform's efficacy in facilitating **skill acquisition** and **professional development**. The gamified approach has shown to significantly **boost** learning outcomes and **engagement** levels. The option to opt-out respects user preferences, highlighting the platform's commitment to **user-centric** learning. Embracing the philosophy of improving "just 1% per day" can exponentially **enhance** one's abilities over time, embodying the essence of **continuous growth** and **development**.
 
-![Google Cloud Skills Boost Silver Leaderboard - 2024-01-10](https://github.com/paraskevasleivadaros/Blog-Post-Ideas/assets/16403754/f1ce7a50-e0e
+![Google Cloud Skills Boost Silver Leaderboard - 2024-01-10](https://github.com/paraskevasleivadaros/Blog-Post-Ideas/assets/16403754/3c3f0c52-a793-4835-ba43-3d7ab3630bc9)
 *Leading the Silver Leaderboard*
 
 ## Conclusion:
