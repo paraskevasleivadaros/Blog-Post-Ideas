@@ -1,12 +1,10 @@
 # Blog-Post-Ideas
 A curated collection of future blog post ideas focusing on cloud computing and tech trends
 
-## Next Post
-- https://linkedin.com/advice/how-can-you-use-github-build-your-programming-network-gu2gc
-
 ## Pool: 
 - https://linkedin.com/pulse/topics/browse/a
-
+- https://linkedin.com/pulse/topics/engineering-s166/cloud-computing-s2801
+  
 ## To write:
 - https://linkedin.com/advice/what-skills-should-system-administrators-a8cuc
 - https://linkedin.com/advice/0/what-most-effective-leadership-strategies-lobjf
@@ -47,6 +45,9 @@ A curated collection of future blog post ideas focusing on cloud computing and t
 - https://linkedin.com/pulse/topics/engineering-s166/system-development-s41459
 - https://linkedin.com/pulse/topics/engineering-s166/system-architecture-s3053
 - https://linkedin.com/pulse/topics/it-services-s57547/system-administration-s236
+
+## Posts I cannot contribute
+- https://linkedin.com/advice/how-can-you-use-github-build-your-programming-network-gu2gc
 
 ## To be published:
 - https://linkedin.com/advice/1/what-differences-between-graphical-user-interfaces-cirve
